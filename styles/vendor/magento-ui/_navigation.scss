@@ -7,19 +7,19 @@
 //  Navigation
 //  ---------------------------------------------
 
-$navigation__background: $color-gray94;
-$navigation-level0-item__active__color: $primary__color;
-$submenu-item__active__color: $navigation-level0-item__active__color;
-$navigation-level0-item__color: $color-gray34;
-$navigation-level0-item__text-decoration: none;
-$navigation-desktop-level0-item__text-decoration: none;
-$navigation-desktop-level0-item__color: $primary__color;
-$navigation-desktop-level0-item__hover__color: $primary__color;
+$navigation__background: $color-gray94 !default;
+$navigation-level0-item__active__color: $primary__color !default;
+$submenu-item__active__color: $navigation-level0-item__active__color !default;
+$navigation-level0-item__color: $color-gray34 !default;
+$navigation-level0-item__text-decoration: none !default;
+$navigation-desktop-level0-item__text-decoration: none !default;
+$navigation-desktop-level0-item__color: $primary__color !default;
+$navigation-desktop-level0-item__hover__color: $primary__color !default;
 
 //  Desktop navigation
-$navigation-desktop-level0-item__line-height: 47px;
-$submenu-desktop__font-weight: $font-weight__regular;
-$submenu-desktop-item__active__color: $navigation-level0-item__active__color;
+$navigation-desktop-level0-item__line-height: 47px !default;
+$submenu-desktop__font-weight: $font-weight__regular !default;
+$submenu-desktop-item__active__color: $navigation-level0-item__active__color !default;
 
 
 

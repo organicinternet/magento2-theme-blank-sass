@@ -147,7 +147,7 @@
 //  Add url to property
 //  ---------------------------------------------
 
-$urls-resolved: inherit;
+$urls-resolved: inherit !default;
 
 @mixin lib-url($_path) {
     $url: "../#{$_path}";

@@ -1,8 +1,8 @@
-$fotorama-duration-time: 0.3s;
-$fotorama-arw-size: 95px;
-$fotorama_close_size: 30px;
-$size-fotorama-block: 50px;
-$fotorama-thumb-arrow: 30px;
+$fotorama-duration-time: 0.3s !default;
+$fotorama-arw-size: 95px !default;
+$fotorama_close_size: 30px !default;
+$size-fotorama-block: 50px !default;
+$fotorama-thumb-arrow: 30px !default;
 
 @mixin fotorama-abs-center() {
     transform: translate3d(-50%, -50%, 0);
